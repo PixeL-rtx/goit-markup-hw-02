@@ -1,0 +1,46 @@
+body {
+    font-family:"Raleway" "Roboto", sans-serif;
+    color: #2E2F42;
+    font-size: 18px;
+    background-color: #fafafa;
+
+}
+.page-nav .link-logo {
+    font-family: "Raleway", sans-serif;
+    color: #2E2F42;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+.page-nav .link {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #2E2F42;
+}
+.adresses-nav .link-adres {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+    text-decoration: none;
+}
+.page-title {
+    background-color: #2E2F42;
+}
+.page-title .title {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+}
+.page-title .reservation {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+ СДЕЛАТЬ СЕКЦИЮ БЕНЕФИТОВ 
