@@ -29,6 +29,10 @@ body {
     text-decoration: none;
     color: #2E2F42;
 }
+.page-nav-navigation .link:hover,
+.page-nav-navigation .link:focus {
+    color: #404BBF;
+}
 .adresses-nav .link-adres {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -36,6 +40,10 @@ body {
     line-height: 1;
     color: #434455;
     text-decoration: none;
+}
+.adresses-nav .link-adres:hover,
+.adresses-nav .link-adres:focus {
+    color: #404BBF;
 }
 .page-title {
     background-color: #2E2F42;
@@ -55,6 +63,11 @@ body {
     line-height: 1.5;
     color: #FFFFFF;
     background-color: #4D5AE5;
+    cursor: pointer;
+}
+.page-title .reservation:hover,
+.page-title .reservation:focus {
+    background-color: #404BBF;
 }
  .benefites-title .titles {
     font-family: "Roboto", sans-serif;
@@ -146,3 +159,5 @@ body {
     line-height: 1.5;
     color: #F4F4FD;
  }
+ 
+ .adresses-nav .link-adres
