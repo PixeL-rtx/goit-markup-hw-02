@@ -110,10 +110,10 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
  }
- .foto .foto {
+ .foto  {
     background-color: #FFFFFF;
  }
- .foto .names {
+ .names {
     font-family: "Roboto", sans-serif;
     font-size: 20px;
     font-weight: 500;
@@ -122,7 +122,7 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
  }
- .foto .jobs {
+ .jobs {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
