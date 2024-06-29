@@ -1,5 +1,5 @@
 body {
-    font-family:"Raleway" "Roboto", sans-serif;
+    font-family:"Roboto", sans-serif;
     color: #2E2F42;
     font-size: 18px;
     background-color: #fafafa;
@@ -7,7 +7,7 @@ body {
 }
 .page-nav .link-logo {
     font-family: "Raleway", sans-serif;
-    color: #2E2F42;
+    color: #4D5AE5;
     text-decoration: none;
     font-weight: 700;
     line-height: 1.16;
@@ -19,7 +19,7 @@ body {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16;
-    color: #4D5AE5;
+    color: #2E2F42;
 }
 .page-nav-navigation .link {
     font-family: "Roboto", sans-serif;
@@ -129,7 +129,7 @@ body {
     font-weight: 700;
     text-decoration: none;
     line-height: 1.16;
-    color: #F4F4FD;
+    color: #4D5AE5;
  }
  .foot .foot-web {
     font-family: "Raleway", sans-serif;
@@ -137,7 +137,7 @@ body {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16;
-    color: #4D5AE5;
+    color: #F4F4FD;
  }
  .foot .foot-text {
     font-family: "Raleway", sans-serif;
