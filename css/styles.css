@@ -144,7 +144,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
  }
- .app-title .apps {
+ .card .apps {
     font-family: "Roboto", sans-serif;
     font-size: 20px;
     font-weight: 500;
@@ -152,7 +152,7 @@ body {
     color: #2E2F42;
     letter-spacing: 0.02em;
  }
- .app-title .texts {
+ .card .texts {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
